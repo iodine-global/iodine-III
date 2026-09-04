@@ -13,6 +13,7 @@ Most network filters automatically block standard gaming domains, but they rarel
 ## Repository Structure
 
 * `iodine.html` — The all-in-one portable entry point featuring the gaming interface and auto-update engine.
+* `assets` — The actual assets for Iodine.
 * `LICENSE` — Project terms under the **GPL-3.0 License**.
 * `README.md` — Project documentation.
 
